@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SrDasNeves
-- 💚 i'm a Xbox lover
-- 😍 My favourite area of programming is Web Development(full stack)
+- 💚 i'm an Xbox lover (and insider tester)
+- Studying to be an Web Developer!
+- In love with mongo db, javascript and node S2...
 
 - Contacts: 
 Instagram @sr_das_neves
