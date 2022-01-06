@@ -5,6 +5,7 @@
 I'm actually working on: SECRET!
 
 Somethings that i've made:
+<br>
 · 7th pos in Brazilian Robotics Olympiad; <br>
 · A bunch of coding jams with friends; <br>
 · Actually, I really don't remember more things; <br>
