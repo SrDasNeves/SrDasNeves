@@ -20,9 +20,4 @@ const professionalExperience = [
   ]
 ```
 
-```bash
-█▀█ █▀█ █▀▀ █▄░█   █▀▀ █▀█ █▀█   ░░█ █▀█ █▄▄ █▀ █
-█▄█ █▀▀ ██▄ █░▀█   █▀░ █▄█ █▀▄   █▄█ █▄█ █▄█ ▄█ ▄
-```
-
 ![SrDasNeves's GitHub stats](https://github-readme-stats.vercel.app/api?username=snow-sr&show_icons=true&theme=synthwave)
