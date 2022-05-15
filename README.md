@@ -6,18 +6,6 @@
 - 🦾 Working in a bunch of iot + robotics projects;
 - 📗 Studying at Instituto Federal Catarinense - Campus Araquari
 
-```javascript
-const professionalExperience = [
-{
- "Title": "Ecapacitação",
- 
- "Used": "Node, Next, React, Mongo, Google APIS",
- 
- "Time working on": "1 year and one month",
- 
- "Worked as": "Full stack web-dev"
-}
-  ]
-```
+
 
 ![SrDasNeves's GitHub stats](https://github-readme-stats.vercel.app/api?username=snow-sr&show_icons=true&theme=synthwave)
