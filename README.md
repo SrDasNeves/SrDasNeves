@@ -1,8 +1,10 @@
 # I am a developer who loves creating all kinds of things!
 
-Currently, I am studying at the Federal Institute of Santa Catarina - Araquari, where I am in my 3rd year of high school, specializing in Internet Computing, with classes in web programming, mobile development, software engineering, databases, and other computer science and programming-related subjects!
+I've studied at the Federal Institute of Santa Catarina - Araquari, specializing in Internet Computing, with classes in web programming, mobile development, software engineering, databases, and other computer science and programming-related subjects.
 
 Since 2021, I have been participating in a research and extension program within the Institute, where I have gained experience in teamwork, leadership, Agile methodologies, testing, and stacks such as Node.js, Django Rest Framework, React Native, and Vue.js, using Redis, Mongo, and MySql as the databases for our applications. In this project, I have also learned to handle DevOps, being responsible for the entire workflow, from testing to deployment, for my team members.
+
+Now, in 2024, I work as a Software Developer at Softexpert Software S.A;
 
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
